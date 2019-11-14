@@ -1,0 +1,7 @@
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\bin\Debug\Generic List.exe.config
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\bin\Debug\Generic List.exe
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\bin\Debug\Generic List.pdb
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\obj\Debug\Generic List.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\obj\Debug\Generic List.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\obj\Debug\Generic List.exe
+C:\Users\Roshan Gurung\Source\Repos\Generic List\Generic List\obj\Debug\Generic List.pdb
